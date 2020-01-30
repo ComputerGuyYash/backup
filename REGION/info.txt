@@ -1,0 +1,4 @@
+Input Data 3
+Output Data 3
+
+Loss Format: Auto Encoder Analogy mean-squared-error

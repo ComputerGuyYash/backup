@@ -1,0 +1,4 @@
+Input Data Images
+Output Data 1 Probability
+
+Loss Format: Binary-cross-entropy
